@@ -1,0 +1,29 @@
+{
+  "host": "mcapsdevbox",
+  "resource": "https://management.azure.com/",
+  "clientId": "09779c4f-b075-4dda-9e56-4e350e485459",
+  "managedIdentity": {
+    "expiresOn": "2026-05-27T18:17:19.6951503+00:00",
+    "tid": "c7dd650d-aa45-4d9e-b5e5-17f9d5af38e6",
+    "oid": "655476bd-c4b3-4aec-92f9-68506699b458",
+    "appid": "09779c4f-b075-4dda-9e56-4e350e485459",
+    "xms_mirid": "/subscriptions/82416200-99e0-4e90-9a31-e389b1860eb7/resourcegroups/retraite/providers/Microsoft.ManagedIdentity/userAssignedIdentities/uai-zlogicapp-test-01",
+    "aud": "https://management.azure.com",
+    "iss": "https://sts.windows.net/c7dd650d-aa45-4d9e-b5e5-17f9d5af38e6/"
+  },
+  "defaultAzureCredential": {
+    "expiresOn": "2026-05-27T18:17:19.6951503+00:00",
+    "tid": "c7dd650d-aa45-4d9e-b5e5-17f9d5af38e6",
+    "oid": "655476bd-c4b3-4aec-92f9-68506699b458",
+    "appid": "09779c4f-b075-4dda-9e56-4e350e485459",
+    "xms_mirid": "/subscriptions/82416200-99e0-4e90-9a31-e389b1860eb7/resourcegroups/retraite/providers/Microsoft.ManagedIdentity/userAssignedIdentities/uai-zlogicapp-test-01",
+    "aud": "https://management.azure.com",
+    "iss": "https://sts.windows.net/c7dd650d-aa45-4d9e-b5e5-17f9d5af38e6/"
+  },
+  "serviceBus": {
+    "ns": "servbuszatst01.servicebus.windows.net",
+    "entity": "testqu01",
+    "sent": true,
+    "messageId": null
+  }
+}
