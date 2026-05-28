@@ -1,24 +1,24 @@
 {
   "host": "mcapsdevbox",
   "resource": "https://management.azure.com/",
-  "clientId": "09779c4f-b075-4dda-9e56-4e350e485459",
+  "clientId": "5b2e74d1-9c83-46af-b157-2d8e3a6f4c91",
   "managedIdentity": {
     "expiresOn": "2026-05-27T18:17:19.6951503+00:00",
-    "tid": "c7dd650d-aa45-4d9e-b5e5-17f9d5af38e6",
-    "oid": "655476bd-c4b3-4aec-92f9-68506699b458",
-    "appid": "09779c4f-b075-4dda-9e56-4e350e485459",
+    "tid": "7f4a91c6-2b58-4e3d-a82f-9c5d1e8b3a47",
+    "oid": "c81d6b39-4f72-4a85-bd13-5e9c2a7f6048",
+    "appid": "5b2e74d1-9c83-46af-b157-2d8e3a6f4c91",
     "xms_mirid": "/subscriptions/82416200-99e0-4e90-9a31-e389b1860eb7/resourcegroups/retraite/providers/Microsoft.ManagedIdentity/userAssignedIdentities/uai-zlogicapp-test-01",
     "aud": "https://management.azure.com",
-    "iss": "https://sts.windows.net/c7dd650d-aa45-4d9e-b5e5-17f9d5af38e6/"
+    "iss": "https://sts.windows.net/7f4a91c6-2b58-4e3d-a82f-9c5d1e8b3a47/"
   },
   "defaultAzureCredential": {
     "expiresOn": "2026-05-27T18:17:19.6951503+00:00",
-    "tid": "c7dd650d-aa45-4d9e-b5e5-17f9d5af38e6",
-    "oid": "655476bd-c4b3-4aec-92f9-68506699b458",
-    "appid": "09779c4f-b075-4dda-9e56-4e350e485459",
+    "tid": "7f4a91c6-2b58-4e3d-a82f-9c5d1e8b3a47",
+    "oid": "c81d6b39-4f72-4a85-bd13-5e9c2a7f6048",
+    "appid": "5b2e74d1-9c83-46af-b157-2d8e3a6f4c91",
     "xms_mirid": "/subscriptions/82416200-99e0-4e90-9a31-e389b1860eb7/resourcegroups/retraite/providers/Microsoft.ManagedIdentity/userAssignedIdentities/uai-zlogicapp-test-01",
     "aud": "https://management.azure.com",
-    "iss": "https://sts.windows.net/c7dd650d-aa45-4d9e-b5e5-17f9d5af38e6/"
+    "iss": "https://sts.windows.net/7f4a91c6-2b58-4e3d-a82f-9c5d1e8b3a47/"
   },
   "serviceBus": {
     "ns": "servbuszatst01.servicebus.windows.net",
